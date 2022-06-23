@@ -1,1 +1,1 @@
-# django-blog-project-deployment
+# Multi-user blog application developed using Djagno. 
